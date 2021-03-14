@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"snowy=false": [{ "model": "damoniy:block/block_grass_lime"}],
+		"snowy=true": [{ "model": "damoniy:block/block_grass_snowy"}]
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "damoniy:blocks/block_grass_side_edolas",
+    "down": "damoniy:blocks/block_dirt",
+    "up": "damoniy:blocks/block_grass_top_edolas",
+    "east": "damoniy:blocks/block_grass_side_edolas",
+    "west": "damoniy:blocks/block_grass_side_edolas",
+    "north": "damoniy:blocks/block_grass_side_edolas",
+    "south": "damoniy:blocks/block_grass_side_edolas"
+  }
+}

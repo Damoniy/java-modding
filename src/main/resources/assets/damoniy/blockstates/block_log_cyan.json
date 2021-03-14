@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "damoniy:block/block_log_cyan" },
+        "axis=z": { "model": "damoniy:block/block_log_cyan", "x": 90 },
+        "axis=x": { "model": "damoniy:block/block_log_cyan", "x": 90, "y": 90 }
+    }
+}

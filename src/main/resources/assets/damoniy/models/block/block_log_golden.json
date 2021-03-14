@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "damoniy:blocks/block_wood_goak_top",
+        "side": "damoniy:blocks/block_wood_goak_side"
+    }
+}

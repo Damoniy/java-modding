@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "damoniy:blocks/block_grass_side_lime",
+    "down": "damoniy:blocks/block_dirt",
+    "up": "damoniy:blocks/block_grass_top_lime",
+    "east": "damoniy:blocks/block_grass_side_lime",
+    "west": "damoniy:blocks/block_grass_side_lime",
+    "north": "damoniy:blocks/block_grass_side_lime",
+    "south": "damoniy:blocks/block_grass_side_lime"
+  }
+}

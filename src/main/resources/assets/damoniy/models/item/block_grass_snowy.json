@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "damoniy:blocks/block_grass_side_snowy",
+    "down": "damoniy:blocks/block_dirt",
+    "up": "minecraft:blocks/grass_block",
+    "east": "damoniy:blocks/block_grass_side_snowy",
+    "west": "damoniy:blocks/block_grass_side_snowy",
+    "north": "damoniy:blocks/block_grass_side_snowy",
+    "south": "damoniy:blocks/block_grass_side_snowy"
+  }
+}

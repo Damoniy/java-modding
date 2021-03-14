@@ -1,0 +1,13 @@
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\bin\Debug\netcoreapp3.1\NewDotnetProject.exe
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\bin\Debug\netcoreapp3.1\NewDotnetProject.deps.json
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\bin\Debug\netcoreapp3.1\NewDotnetProject.runtimeconfig.json
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\bin\Debug\netcoreapp3.1\NewDotnetProject.runtimeconfig.dev.json
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\bin\Debug\netcoreapp3.1\NewDotnetProject.dll
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\bin\Debug\netcoreapp3.1\NewDotnetProject.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\obj\Debug\netcoreapp3.1\NewDotnetProject.csprojAssemblyReference.cache
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\obj\Debug\netcoreapp3.1\NewDotnetProject.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\obj\Debug\netcoreapp3.1\NewDotnetProject.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\obj\Debug\netcoreapp3.1\NewDotnetProject.AssemblyInfo.cs
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\obj\Debug\netcoreapp3.1\NewDotnetProject.dll
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\obj\Debug\netcoreapp3.1\NewDotnetProject.pdb
+C:\Users\emers\OneDrive\Área de Trabalho\skygroud\modding\NewDotnetProject\obj\Debug\netcoreapp3.1\NewDotnetProject.genruntimeconfig.cache
